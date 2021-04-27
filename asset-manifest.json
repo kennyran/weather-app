@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/weather-app/static/css/main.053bd8d0.chunk.css",
+    "main.css": "/weather-app/static/css/main.5a2102b6.chunk.css",
     "main.js": "/weather-app/static/js/main.4788cc5a.chunk.js",
     "main.js.map": "/weather-app/static/js/main.4788cc5a.chunk.js.map",
     "runtime-main.js": "/weather-app/static/js/runtime-main.49c525d5.js",
@@ -12,7 +12,7 @@
     "static/js/3.0121bf40.chunk.js.map": "/weather-app/static/js/3.0121bf40.chunk.js.map",
     "index.html": "/weather-app/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/weather-app/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.053bd8d0.chunk.css.map": "/weather-app/static/css/main.053bd8d0.chunk.css.map",
+    "static/css/main.5a2102b6.chunk.css.map": "/weather-app/static/css/main.5a2102b6.chunk.css.map",
     "static/js/2.3a868197.chunk.js.LICENSE.txt": "/weather-app/static/js/2.3a868197.chunk.js.LICENSE.txt",
     "static/media/App.css": "/weather-app/static/media/sky-background.dd34b9f4.jpeg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.49c525d5.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.3a868197.chunk.js",
-    "static/css/main.053bd8d0.chunk.css",
+    "static/css/main.5a2102b6.chunk.css",
     "static/js/main.4788cc5a.chunk.js"
   ]
 }
