@@ -1,3 +1,94 @@
 .App {
   text-align: center;
+  background-image: url('./img/sky-background.jpeg');
+  background-size: cover;
+}
+
+#title-header {
+  font-size: 2rem;
+}
+
+#weather-card {
+  border-style: ridge;
+  border-width: 2.5px;
+  border-color: rgb(180, 180, 180);
+  width: 20rem;
+  margin: auto;
+  margin-top: 25px;
+  text-align: center;
+  /* background-image: url('./img/sky-background.jpeg');
+  background-size: cover; */
+}
+
+#stack-info {
+  display: block;
+}
+
+.temp {
+  font-size: 2.5rem;
+}
+
+.row-1 {
+  display: flex;
+}
+
+.row-1 .high-temp {
+  flex: 1;
+}
+
+.row-1 .low-temp {
+  flex: 1;
+}
+
+.row-2 {
+  display: flex;
+}
+
+.row-2 .s-rise {
+  flex: 1;
+}
+
+.row-2 .real-feel {
+  flex: 1;
+}
+
+.row-3 {
+  display: flex;
+}
+
+.row-3 .s-set {
+  flex: 1;
+}
+
+.row-3 .humid {
+  flex: 1;
+}
+
+.row-4 {
+  display: flex;
+}
+
+.row-4 .wind {
+  flex: 1;
+}
+
+.row-4 .visible {
+  flex: 1;
+}
+
+.row-5 {
+  display: flex;
+}
+
+.row-5 .pressure {
+  flex: 1;
+}
+
+.row-5 .description {
+  flex: 1;
+}
+
+.date {
+  margin: 20px;
+  margin: auto;
 }
