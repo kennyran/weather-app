@@ -31,7 +31,7 @@ const weatherCard = ({weatherData}) => (
             <hr></hr>
             <div className="row-5">
                 <p className="pressure" id="weather-info"><span id="stack-info">PRESSURE</span>{weatherData.main.pressure} inHg</p>
-                <p className="description" id="weather-info"><span id="stack-info">DESCRIPTION</span>{weatherData.weather[0].description}</p>
+                <p className="description" id="weather-info"><span id="stack-info">DESCRIPTION</span>{weatherData.weather[0].description.toUpperCase()}</p>
             </div>
             <p className="date" id="weather-info">{moment().format('LLLL')}</p>
         </Card.Body>
